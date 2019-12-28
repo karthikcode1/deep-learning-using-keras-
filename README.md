@@ -4,4 +4,5 @@
       THESE MODEL IS BASED IN TENSORFLOW VERSION=2.0.0_
       Using  keras.models  , Model is Sequentical()
   **predection of diabates data**
+  data is give 
   [github](https://github.com/karthikcode1/deep-learning-using-keras-/blob/master/pima-indians-diabetes.csv)
